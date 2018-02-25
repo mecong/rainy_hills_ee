@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rain Hills Calculator</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+    <link href="cover.css" rel="stylesheet">
+    <script>
+        $(document).ready(function () {
+            $("#btn_calc").click(function () {
+                $.get('rest/rain', {q: $("#q").val()}, function (result) {
+                    if (result === "NumberFormatException") {
+                        $("#result").html("wrong input");
+                    } else {
+                        $("#result").html(result);
+                    }
+                });
+            });
+
+            $("#q").keyup(function () {
+                $("#result").html("need to recalculate");
+            })
+        });
+    </script>
+</head>
+<body>
+
+<div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
+    <header class="masthead mb-auto">
+        <div class="inner">
+            <h3 class="masthead-brand">Java EE Coding Exercise | CRX Markets </h3>
+        </div>
+    </header>
+
+    <main role="main" class="inner cover">
+        <h1 class="cover-heading">Rainy Hills Calculator</h1>
+
+        <label for="q">Calculates the volume of water which remained after the rain, in units.
+            <textarea class="form-control" name="q" id="q" title="Comma delimited array of integers" rows="1">100,1,43</textarea>
+        </label>
+        <p class="text-center">
+            <button class="btn btn-secondary" id="btn_calc" type="button">Calculate</button>
+        </p>
+
+
+        <div class="panel panel-primary">
+            <div class="panel-heading">Result: <span id="result" class="well well-lg panel-body"></span></div>
+
+        </div>
+    </main>
+
+    <footer class="mastfoot mt-auto">
+        <hr/>
+        <div class="inner row">
+            <div class="col-md-6"><p> Me©ong 2018 </p></div>
+            <div class="col-md-6 text-right"><a href="RainyHills.pdf" target="_blank">Download the original task</a></div>
+
+        </div>
+    </footer>
+</div>
+
+
+</body>
+</html>
+

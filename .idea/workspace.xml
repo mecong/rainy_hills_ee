@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="crx:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1c4e4bb-5576-4c84-8bd2-02b36c197c91" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RainServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rain/api/RainServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RainCalculatorService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/rain/service/RainCalculatorService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringListParserServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/service/StringListParserServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RainServletTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/api/RainServletTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RainCalculatorServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/service/RainCalculatorServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cover.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/cover.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new short[]</find>
+      <find>RainCalculator</find>
+      <find>contain</find>
+      <find>panel</find>
+      <find>excep</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ImmutableList.of</replace>
+      <replace>RainCalculatorService</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/airhacks/JAXRSConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/JAXRSConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/My.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/RainCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/RainCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/RainCalculatorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/config/JAXRSConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/config/service/RainCalculatorService.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/cover.css" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/RainCalculatorServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/service/StringListParserServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/service/StringListParserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/config/JAXRSConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/MyServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/RainServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/RainServletTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/service/RainCalculatorServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/rain/api/RainServletTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/api/RainServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/rain/service/RainCalculatorService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="crx" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="22" />
+    <option name="width" value="1395" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rain" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rain" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crx" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="rain" />
+      <recent name="rain.service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="rain.api" />
+      <recent name="rain.service" />
+      <recent name="rain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.RainCalculatorServiceTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="Weld EE Embedded 1.1.x: RainServletTest" type="ArquillianTestNG" factoryName="" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="rain.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="crx" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="Weld EE Embedded 1.1.x" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="rain" />
+      <option name="MAIN_CLASS_NAME" value="rain.api.RainServletTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" value="" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="JBOSS RUN" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 11.0.10.Final-redhat-1" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="HOT_SWAP_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="crx:war">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <predefined_log_file id="JBoss" enabled="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62859" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="crx:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="RainCalculatorServiceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="rain.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="crx" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="rain" />
+      <option name="MAIN_CLASS_NAME" value="rain.service.RainCalculatorServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="RainCalculatorTest.testEdgeCasesCalculation1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="rain.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="crx" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="rain" />
+      <option name="MAIN_CLASS_NAME" value="rain.RainCalculatorTest" />
+      <option name="METHOD_NAME" value="testEdgeCasesCalculation1" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="StringListParserServiceTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="rain.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="crx" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="rain.service" />
+      <option name="MAIN_CLASS_NAME" value="rain.service.StringListParserServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="StringListParserServiceTest.shouldThrowAnExceptionIfNotANumber" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="rain.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="crx" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="rain.service" />
+      <option name="MAIN_CLASS_NAME" value="rain.service.StringListParserServiceTest" />
+      <option name="METHOD_NAME" value="shouldThrowAnExceptionIfNotANumber" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="JBoss Server.JBOSS RUN" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.RainCalculatorTest.testEdgeCasesCalculation1" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.RainCalculatorServiceTest" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.StringListParserServiceTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.StringListParserServiceTest.shouldThrowAnExceptionIfNotANumber" />
+      <item index="5" class="java.lang.String" itemvalue="Arquillian TestNG.Weld EE Embedded 1.1.x: RainServletTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="TestNG.RainCalculatorServiceTest" />
+        <item index="1" class="java.lang.String" itemvalue="Arquillian TestNG.Weld EE Embedded 1.1.x: RainServletTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.StringListParserServiceTest" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.StringListParserServiceTest.shouldThrowAnExceptionIfNotANumber" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.RainCalculatorTest.testEdgeCasesCalculation1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1c4e4bb-5576-4c84-8bd2-02b36c197c91" name="Default" comment="" />
+      <created>1519418820647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519418820647</updated>
+      <workItem from="1519418829179" duration="8894000" />
+      <workItem from="1519479455123" duration="15816000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RainCalculatorServiceTest - 2018.02.25 at 11h 28m 42s.xml">
+      <configuration name="RainCalculatorServiceTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StringListParserServiceTest - 2018.02.24 at 23h 14m 57s.xml">
+      <configuration name="StringListParserServiceTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StringListParserServiceTest - 2018.02.24 at 23h 15m 11s.xml">
+      <configuration name="StringListParserServiceTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="StringListParserServiceTest_shouldThrowAnExceptionIfNotANumber - 2018.02.24 at 23h 14m 08s.xml">
+      <configuration name="StringListParserServiceTest.shouldThrowAnExceptionIfNotANumber" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 12m 17s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 13m 14s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 18m 18s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 20m 37s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 21m 15s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+    <history-entry file="Weld_EE_Embedded_1_1_x__RainServletTest - 2018.02.25 at 11h 28m 15s.xml">
+      <configuration name="Weld EE Embedded 1.1.x: RainServletTest" configurationId="ArquillianTestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24710000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5033365" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.16094421" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329105" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25440452" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39903265" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32889965" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseEJBModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32889965" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2648126" sideWeight="0.49666348" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3297568" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="LiquibaseModel" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3297568" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20577872" sideWeight="0.4949495" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3297568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.2769556" sideWeight="0.5050505" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.22903453" sideWeight="0.50609756" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38814995" sideWeight="0.49666348" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32889965" sideWeight="0.49666348" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="waterAmount" />
+        <watch expression="currentPitAmount" />
+        <watch expression="landscape" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/api/RainServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/service/RainCalculatorServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.3/testng-6.8.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6420">
+          <caret line="477" column="0" lean-forward="false" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <marker date="1511895923325" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1511895923325" expanded="false" signature="143:1916" ph="..." />
+            <marker date="1511895923325" expanded="true" signature="2965:3236" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="3321:3635" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="3852:4354" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="4526:4673" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="4909:8846" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9034:9262" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9355:9646" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9739:10022" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="10106:10571" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="10777:11672" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="11749:12762" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="12956:14849" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="14910:15210" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="15343:17030" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="17115:17218" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="17433:20260" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="20343:20460" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="20603:21077" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="21119:21130" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="21220:21226" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="21536:25702" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="25812:26498" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="26616:27727" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="28030:28398" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="28606:29630" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="29837:31820" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="31914:32167" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="32558:33401" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="33662:34035" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="34301:42398" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="42526:42784" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="42934:45037" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="45315:45942" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="46170:46776" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="47011:50582" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="50662:50867" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="50994:51276" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="51491:52914" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="53012:54187" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="54284:54935" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="55032:56064" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="56188:56637" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="56736:57386" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="57525:58165" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58221:58367" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58424:58574" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58651:59617" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="59660:59671" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="59728:59734" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="59823:60535" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="60578:60589" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="60657:60663" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="60703:61134" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="60889:61031" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="61067:61082" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61118:61128" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61228:61430" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="61263:61274" ph="{}" />
+            <marker date="1511895923325" expanded="false" signature="61332:61347" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61414:61424" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61526:61691" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="61563:61574" ph="{}" />
+            <marker date="1511895923325" expanded="false" signature="61632:61647" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61675:61685" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61723:61770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="210" column="12" lean-forward="false" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/beans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.3/testng-6.8.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="477" column="0" lean-forward="false" selection-start-line="477" selection-start-column="0" selection-end-line="477" selection-end-column="0" />
+          <folding>
+            <marker date="1511895923325" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1511895923325" expanded="false" signature="143:1916" ph="..." />
+            <marker date="1511895923325" expanded="true" signature="2965:3236" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="3321:3635" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="3852:4354" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="4526:4673" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="4909:8846" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9034:9262" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9355:9646" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="9739:10022" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="10106:10571" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="10777:11672" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="11749:12762" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="12956:14849" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="14910:15210" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="15343:17030" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="17115:17218" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="17433:20260" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="20343:20460" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="20603:21077" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="21119:21130" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="21220:21226" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="21536:25702" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="25812:26498" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="26616:27727" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="28030:28398" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="28606:29630" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="29837:31820" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="31914:32167" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="32558:33401" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="33662:34035" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="34301:42398" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="42526:42784" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="42934:45037" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="45315:45942" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="46170:46776" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="47011:50582" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="50662:50867" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="50994:51276" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="51491:52914" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="53012:54187" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="54284:54935" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="55032:56064" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="56188:56637" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="56736:57386" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="57525:58165" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58221:58367" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58424:58574" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="58651:59617" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="59660:59671" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="59728:59734" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="59823:60535" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="60578:60589" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="60657:60663" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="60703:61134" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="60889:61031" ph="{...}" />
+            <marker date="1511895923325" expanded="false" signature="61067:61082" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61118:61128" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61228:61430" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="61263:61274" ph="{}" />
+            <marker date="1511895923325" expanded="false" signature="61332:61347" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61414:61424" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61526:61691" ph="{...}" />
+            <marker date="1511895923325" expanded="true" signature="61563:61574" ph="{}" />
+            <marker date="1511895923325" expanded="false" signature="61632:61647" ph=" { " />
+            <marker date="1511895923325" expanded="false" signature="61675:61685" ph=" }" />
+            <marker date="1511895923325" expanded="true" signature="61723:61770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/jre/lib/deploy.jar!/com/sun/deploy/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0.jar!/com/google/common/base/Strings.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="29" column="25" lean-forward="false" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1506968895027" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1506968895027" expanded="false" signature="146:280" ph="..." />
+            <marker date="1506968895027" expanded="true" signature="348:355" ph="{}" />
+            <marker date="1506968895027" expanded="false" signature="418:429" ph=" { " />
+            <marker date="1506968895027" expanded="false" signature="465:471" ph=" }" />
+            <marker date="1506968895027" expanded="false" signature="548:559" ph=" { " />
+            <marker date="1506968895027" expanded="false" signature="604:610" ph=" }" />
+            <marker date="1506968895027" expanded="false" signature="676:687" ph=" { " />
+            <marker date="1506968895027" expanded="false" signature="731:737" ph=" }" />
+            <marker date="1506968895027" expanded="true" signature="817:1207" ph="{...}" />
+            <marker date="1506968895027" expanded="true" signature="1285:1675" ph="{...}" />
+            <marker date="1506968895027" expanded="true" signature="1735:2638" ph="{...}" />
+            <marker date="1506968895027" expanded="true" signature="2710:3132" ph="{...}" />
+            <marker date="1506968895027" expanded="true" signature="3204:3708" ph="{...}" />
+            <marker date="1506968895027" expanded="true" signature="3805:3976" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/23.0/guava-23.0-sources.jar!/com/google/common/base/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-987">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="764" column="72" lean-forward="false" selection-start-line="764" selection-start-column="51" selection-end-line="764" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.3/testng-6.8.3.jar!/org/testng/annotations/ExpectedExceptions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1511895923325" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1511895923325" expanded="false" signature="146:299" ph="..." />
+            <marker date="1511895923325" expanded="true" signature="301:319" ph="/**...*/" />
+            <marker date="1511895923325" expanded="true" signature="320:385" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.3/testng-6.8.3-sources.jar!/org/testng/annotations/ExpectedExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.3/testng-6.8.3-sources.jar!/org/testng/annotations/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="122" column="29" lean-forward="false" selection-start-line="122" selection-start-column="29" selection-end-line="122" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/Before.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Spliterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="295" column="17" lean-forward="false" selection-start-line="295" selection-start-column="17" selection-end-line="295" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/config/JAXRSConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/service/StringListParserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/testng/arquillian-testng-core/1.3.0.Final/arquillian-testng-core-1.3.0.Final.jar!/org/jboss/arquillian/testng/Arquillian.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <marker date="1519547334403" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1519547334403" expanded="false" signature="151:1165" ph="..." />
+            <marker date="1519547334403" expanded="false" signature="1516:1632" ph="initialValue() → { " />
+            <marker date="1519547334403" expanded="false" signature="1651:1667" ph=" }" />
+            <marker date="1519547334403" expanded="true" signature="1694:1701" ph="{}" />
+            <marker date="1519547334403" expanded="true" signature="1707:1788" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="1846:2133" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="2139:2245" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="2302:2931" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="2937:3018" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="3076:3315" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="3321:3427" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="3484:3875" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="3881:3963" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="4037:4266" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="4272:4379" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="4452:4833" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="4915:7249" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="5086:6617" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="5162:5599" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="5679:5908" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="5975:6368" ph="{...}" />
+            <marker date="1519547334403" expanded="false" signature="6411:6434" ph=" { " />
+            <marker date="1519547334403" expanded="false" signature="6476:6494" ph=" }" />
+            <marker date="1519547334403" expanded="false" signature="6539:6562" ph=" { " />
+            <marker date="1519547334403" expanded="false" signature="6585:6603" ph=" }" />
+            <marker date="1519547334403" expanded="true" signature="7255:7317" ph="@{...}" />
+            <marker date="1519547334403" expanded="true" signature="7382:7719" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="7774:7944" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="8031:8439" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="8071:8082" ph="{}" />
+            <marker date="1519547334403" expanded="true" signature="8167:8336" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="8422:8433" ph="{}" />
+            <marker date="1519547334403" expanded="true" signature="8471:8646" ph="{...}" />
+            <marker date="1519547334403" expanded="true" signature="8629:8640" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/testng/arquillian-testng-core/1.3.0.Final/arquillian-testng-core-1.3.0.Final-sources.jar!/org/jboss/arquillian/testng/Arquillian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/cover.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="119" column="1" lean-forward="false" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/api/RainServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/api/RainServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/service/StringListParserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/rain/service/RainCalculatorServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/rain/service/RainCalculatorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Weld EE Embedded 1.1.x|Embedded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>crx:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.27</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
